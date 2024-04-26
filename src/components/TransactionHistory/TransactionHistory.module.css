@@ -11,9 +11,10 @@
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.tableHeader {
+.transaction-history{
   padding: 8px;
   text-align: center;
+  font-size: 50px;
   text-transform: uppercase;
   border-bottom: 1px solid #ddd;
   background-color: #4bd8ee;
